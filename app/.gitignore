@@ -1,0 +1,41 @@
+# Composer vendor directory
+/vendor/
+
+# Runtime files
+/runtime/
+/web/assets/
+
+# IDE/Editor files
+.idea/
+/.vscode/
+/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+/logs/
+/*.log
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Generated files
+/yii
+/.buildpath
+/.project
+/.settings
+
+# PHPUnit coverage files
+/coverage/
+
+# Node modules if used
+/node_modules/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
